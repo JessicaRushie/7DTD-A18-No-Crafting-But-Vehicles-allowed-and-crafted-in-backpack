@@ -16,8 +16,8 @@ Simply place the unzipped file into your 7 Days To Die\Mods Folder.
 EG, "C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods"
 
 The file it should look like this,
-C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods\Jessicas No Crafting\Config\recipes.xml
-C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods\Jessicas No Crafting\Modinfo.xml
+C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods\Jessicas No Crafting Vehicles allowed and crafted in backpack\Config\recipes.xml
+C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods\Jessicas No Crafting Vehicles allowed and crafted in backpack\Modinfo.xml
 
 _______________________________________________________________________________________________________________
 You are free to use this MOD any way you like,
